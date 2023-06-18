@@ -8,7 +8,7 @@ hello world, nice to meet you! 🧃
   
 <br>
      
- #### ⚡  code playgrounds for different tech: 
+ #### ⚡  dev playgrounds
  
  - 👾 Salesforce Dev: [trailblazer](https://trailblazer.me/id/lauperez/)
 
@@ -16,11 +16,8 @@ hello world, nice to meet you! 🧃
 
  #### 🧑🏻‍🎤 reach out
  
- -  [![Linkedin Badge](https://img.shields.io/badge/-lauralperez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lauralperez/)](https://www.linkedin.com/in/lauralperez/)
-   
- -  [![Twitch Badge](https://img.shields.io/badge/-tchnorider-purple?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.com/tchnorider/)](https://www.twitch.com/tchnorider/)
-
- -  [![Discord Badge](https://img.shields.io/badge/-LauRider-lightblue?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/LauRider9063)]([https://discord.com/channels/LauRider9063)
+ [![Linkedin Badge](https://img.shields.io/badge/-lauralperez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lauralperez/)](https://www.linkedin.com/in/lauralperez/)  [![Twitch Badge](https://img.shields.io/badge/-tchnorider-purple?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.com/tchnorider/)](https://www.twitch.com/tchnorider/)
+ [![Discord Badge](https://img.shields.io/badge/-LauRider-lightblue?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/LauRider9063)]([https://discord.com/channels/LauRider9063)
 <br>
 
  ####
