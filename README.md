@@ -21,7 +21,6 @@
  -  [![Discord Badge](https://img.shields.io/badge/-LauRider-lightblue?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/LauRider9063)]([https://discord.com/channels/LauRider9063)
 <br>
 
- #### ➡️  MONTEVIDEO 
 
  
 <p><img align="right" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=tchnorider&show_icons=true&hide_border=false&line_height=20&title_color=b640ed&icon_color=e32be0&show_owner=true"/></p>
