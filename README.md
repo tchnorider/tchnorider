@@ -16,9 +16,9 @@
  
  -  [![Linkedin Badge](https://img.shields.io/badge/-lauralperez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lauralperez/)](https://www.linkedin.com/in/lauralperez/)
    
- -  [![Twitch Badge](https://img.shields.io/badge/-lauralperez-purple?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.com/tchnorider/)](https://www.twitch.com/tchnorider/)
+ -  [![Twitch Badge](https://img.shields.io/badge/-tchnorider-purple?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.com/tchnorider/)](https://www.twitch.com/tchnorider/)
 
- -  [![Discord Badge](https://img.shields.io/badge/-lauralperez-lightblue?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/LauRider9063)]([https://discord.com/channels/LauRider9063)
+ -  [![Discord Badge](https://img.shields.io/badge/-LauRider-lightblue?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/LauRider9063)]([https://discord.com/channels/LauRider9063)
 
 <p><img align="left" width="490" height="165" border="20" src="https://github-readme-stats.vercel.app/api?username=tchnorider&show_icons=true&hide_border=false&line_height=20&title_color=b640ed&icon_color=e32be0&show_owner=true"/></p>
 
