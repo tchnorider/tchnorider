@@ -18,7 +18,7 @@ hello world! 🧃
  
  [![Linkedin Badge](https://img.shields.io/badge/-lauralperez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lauralperez/)](https://www.linkedin.com/in/lauralperez/)  
  
- [![Twitch Badge](https://img.shields.io/badge/-tchnorider-purple?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.com/tchnorider/)](https://www.twitch.com/tchnorider/)
+ [![Twitch Badge](https://img.shields.io/badge/-technolandscapes-purple?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.com/tchnorider/)](https://www.twitch.com/technolandscapes/)
  
  [![Discord Badge](https://img.shields.io/badge/-LauRider-lightblue?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/LauRider9063)]([https://discord.com/channels/LauRider9063)
  
