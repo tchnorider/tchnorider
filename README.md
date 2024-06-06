@@ -8,11 +8,11 @@
  #### ⚡  dev playgrounds 🧃
 
 
- - ⌨️ Algorithms: [leetcode](https://leetcode.com/technolau/)
-                 -- [Search Insert Position](https://leetcode.com/submissions/detail/925397986/)
-                 -- [First Bad Version](https://leetcode.com/submissions/detail/925398292/)
-                 -- [Binary Search](https://leetcode.com/submissions/detail/914068302/)
-                 -- [Squares of Sorted Array](https://leetcode.com/submissions/detail/914069785/)
+ - ⌨️ Algorithms: [leetcode](https://leetcode.com/technolau/) <br>
+                 -- [Search Insert Position](https://leetcode.com/submissions/detail/925397986/)<br>
+                 -- [First Bad Version](https://leetcode.com/submissions/detail/925398292/)<br>
+                 -- [Binary Search](https://leetcode.com/submissions/detail/914068302/)<br>
+                 -- [Squares of Sorted Array](https://leetcode.com/submissions/detail/914069785/)<br>
 
  #### 🧑🏻‍🎤 reach out
  
