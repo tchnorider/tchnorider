@@ -9,10 +9,10 @@
 
 
  - ⌨️ Algorithms: [leetcode](https://leetcode.com/technolau/)
-                 -- [Search Insert Position] (https://leetcode.com/submissions/detail/925397986/)
-                 -- [First Bad Version] (https://leetcode.com/submissions/detail/925398292/)
-                 -- [Binary Search] (https://leetcode.com/submissions/detail/914068302/)
-                 -- [Squares of Sorted Array] (https://leetcode.com/submissions/detail/914069785/)
+                 -- [Search Insert Position](https://leetcode.com/submissions/detail/925397986/)
+                 -- [First Bad Version](https://leetcode.com/submissions/detail/925398292/)
+                 -- [Binary Search](https://leetcode.com/submissions/detail/914068302/)
+                 -- [Squares of Sorted Array](https://leetcode.com/submissions/detail/914069785/)
 
  #### 🧑🏻‍🎤 reach out
  
