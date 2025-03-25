@@ -1,4 +1,4 @@
-<img height="18"  src="https://img.shields.io/badge/Lab%20-%20%236d95ed?style=plastic">
+<img height="18"  src="https://img.shields.io/badge/Code%20Lab%20-%20%236d95ed?style=plastic">
 <br>
   ⚡  Algorithms II class @ ORT University  ⌨️ 
   
