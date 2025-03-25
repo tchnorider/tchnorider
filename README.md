@@ -12,7 +12,7 @@
   -- [Binary Search](https://leetcode.com/submissions/detail/914068302/)<br>
   -- [Squares of Sorted Array](https://leetcode.com/submissions/detail/914069785/)<br>
 
- #### 🧑🏻‍🎤 Contact
+ #### 👩🏻‍💻 Contact
  
  [![Linkedin Badge](https://img.shields.io/badge/-lauralperez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lauralperez/)](https://www.linkedin.com/in/lauralperez/)  <br>
 
