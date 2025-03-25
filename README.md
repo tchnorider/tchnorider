@@ -1,4 +1,4 @@
-<img height="50"  src="https://img.shields.io/badge/code-lab-fuchsia"></p>
+<img height="18"  src="https://img.shields.io/badge/Lab%20-%20%236d95ed?style=plastic"></p>
 
 
   
@@ -24,5 +24,5 @@
  ####
  👁️⃤
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=tchnorider&show_icons=true&hide_border=false&line_height=20&title_color=00ff00&icon_color=#5379cc&show_owner=true"/></p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=tchnorider&show_icons=true&hide_border=false&line_height=20&title_color=5379cc&icon_color=#5379cc&show_owner=true"/></p>
 
