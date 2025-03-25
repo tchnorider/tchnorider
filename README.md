@@ -1,7 +1,6 @@
 <img height="18"  src="https://img.shields.io/badge/Code%20Lab%20-%20%236d95ed?style=plastic">
 <br>
-  ⚡  Algorithms II class @ -- 
-  <br>[ORT University](https://fi.ort.edu.uy/) ⌨️ 
+  ⚡  Algorithms II class at [ORT University](https://fi.ort.edu.uy/) ⌨️ <br>
   
   -- [Hash, Binary Search Tree and Graph algorithms within Car Pooling App](https://github.com/algoritmosii/CarPoolingApp)<br>
 
