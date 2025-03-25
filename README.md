@@ -4,12 +4,10 @@
   
 <br>
   ⚡  Algorithms II class @ ORT University  ⌨️ 
-
-  -- [Hash, Binary Search Tree and Graph algorithms within Car Pooling App](https://github.com/algoritmosii/CarPoolingApp) <br>
+  -- [Hash, Binary Search Tree and Graph algorithms within Car Pooling App](https://github.com/algoritmosii/CarPoolingApp)<br>
 
      
   ⚡  Leetcode algorithms  ⌨️ 
- 
   -- [Search Insert Position](https://leetcode.com/submissions/detail/925397986/) best Leetcode runtime so far! 🔥 <br>
   -- [First Bad Version](https://leetcode.com/submissions/detail/925398292/)<br>
   -- [Binary Search](https://leetcode.com/submissions/detail/914068302/)<br>
