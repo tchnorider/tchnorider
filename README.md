@@ -13,6 +13,8 @@
   -- [Squares of Sorted Array](https://github.com/tchnorider/leetcode_problems/blob/main/src/SquaresOfSortedArray.java)<br>
 
  #### 👩🏻‍💻 Contact
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tchnorider\&layout=compact) <br>
  
  [![Linkedin Badge](https://img.shields.io/badge/-lauralperez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lauralperez/)](https://www.linkedin.com/in/lauralperez/)  <br>
 
