@@ -9,8 +9,8 @@
   
   -- [Search Insert Position](https://github.com/tchnorider/leetcode_problems/blob/main/src/SearchInsertPosition.java) best Leetcode runtime so far! 🔥 <br>
   -- [First Bad Version](https://leetcode.com/submissions/detail/925398292/)<br>
-  -- [Binary Search](https://leetcode.com/submissions/detail/914068302/)<br>
-  -- [Squares of Sorted Array](https://leetcode.com/submissions/detail/914069785/)<br>
+  -- [Binary Search](https://github.com/tchnorider/leetcode_problems/blob/main/src/BinarySearch.java)<br>
+  -- [Squares of Sorted Array](https://github.com/tchnorider/leetcode_problems/blob/main/src/SquaresOfSortedArray.java)<br>
 
  #### 👩🏻‍💻 Contact
  
