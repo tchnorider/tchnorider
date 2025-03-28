@@ -7,10 +7,11 @@
      
   ⚡  Leetcode algorithms  ⌨️
   
-  -- [Search Insert Position](https://github.com/tchnorider/leetcode_problems/blob/main/src/SearchInsertPosition.java) best Leetcode runtime so far! 🔥 <br>
-  -- [First Bad Version](https://github.com/tchnorider/leetcode_problems/blob/main/src/FirstBadVersion.java)<br>
-  -- [Binary Search](https://github.com/tchnorider/leetcode_problems/blob/main/src/BinarySearch.java)<br>
-  -- [Squares of Sorted Array](https://github.com/tchnorider/leetcode_problems/blob/main/src/SquaresOfSortedArray.java)<br>
+  -- [Search Insert Position _ Java](https://github.com/tchnorider/leetcode_problems/blob/main/src/SearchInsertPosition.java) best Leetcode runtime so far! 🔥 <br>
+  -- [First Bad Version _ Java](https://github.com/tchnorider/leetcode_problems/blob/main/src/FirstBadVersion.java)<br>
+  -- [First Bad Version _ C++](https://github.com/tchnorider/leetcode_problems/blob/main/src/FirstBadVersion.cpp)<br>
+  -- [Binary Search _ Java](https://github.com/tchnorider/leetcode_problems/blob/main/src/BinarySearch.java)<br>
+  -- [Squares of Sorted Array _ Java](https://github.com/tchnorider/leetcode_problems/blob/main/src/SquaresOfSortedArray.java)<br>
 
  #### 👩🏻‍💻 Contact
 
