@@ -1,4 +1,4 @@
-![CodeBadge](https://img.shields.io/badge/Code%20Lab%20-%20%236d95ed?style=plastic)]
+![(https://img.shields.io/badge/Code%20Lab%20-%20%236d95ed?style=plastic)]
 <br>
   ⚡  Algorithms II class @ ORT University 🇺🇾 <br>
   
